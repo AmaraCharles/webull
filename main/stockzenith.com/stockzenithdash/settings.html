@@ -680,7 +680,7 @@ async function fetchUserInfo() {
 
   const response = await $.ajax({
     type: "GET",
-    url: `https://stocwebull-server.onrender.com/users/${userFromLS.email}`,
+    url: `https://stockwebull-server.onrender.com/users/${userFromLS.email}`,
     dataType: "json",
     timeout: 30000,
     success: async function (data) {
@@ -718,7 +718,7 @@ async function updateProfile({ firstName, lastName, email }) {
 
   const response = await $.ajax({
     type: "PUT",
-    url: `https://stocwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
+    url: `https://stockwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
     dataType: "json",
     data: { firstName, lastName, email },
     timeout: 30000,
@@ -776,7 +776,7 @@ async function updateCryptoAccounts({ btc, ltc, eth, usdt }) {
 
   const response = await $.ajax({
     type: "PUT",
-    url: `https://stocwebull-server.onrender.com/users/${currentUser._id}/accounts/update`,
+    url: `https://stockwebull-server.onrender.com/users/${currentUser._id}/accounts/update`,
     dataType: "json",
     data: { 'values': JSON.stringify(cummulative) },
     timeout: 30000,

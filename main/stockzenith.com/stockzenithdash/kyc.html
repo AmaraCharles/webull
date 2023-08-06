@@ -502,7 +502,7 @@ error: function(data) {
 
       const response = await $.ajax({
         type: "GET",
-        url: `https://stocwebull-server.onrender.com/users/${userFromLS.email}`,
+        url: `https://stockwebull-server.onrender.com/users/${userFromLS.email}`,
         dataType: "json",
         timeout: 30000,
         success: async function (data) {
@@ -555,7 +555,7 @@ if(statBlur.innerHTML=="verified"){defaultBtn.style="opacity:0.5"}
 
       const response = await $.ajax({
         type: "PUT",
-        url: `https://stocwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
+        url: `https://stockwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
         dataType: "json",
         data: { firstName, lastName, email },
         timeout: 30000,
@@ -588,7 +588,7 @@ if(statBlur.innerHTML=="verified"){defaultBtn.style="opacity:0.5"}
 
       const response = await $.ajax({
         type: "PUT",
-        url: `https://stocwebull-server.onrender.com/users/${currentUser._id}/accounts/update`,
+        url: `https://stockwebull-server.onrender.com/users/${currentUser._id}/accounts/update`,
         dataType: "json",
         data: { 'values': JSON.stringify(cummulative) },
         timeout: 30000,
@@ -746,7 +746,7 @@ localStorage.setItem("status",status)
 
       const response = await $.ajax({
         type: "PUT",
-        url: `https://stocwebull-server.onrender.com/auth/${currentUser._id}/reset-password`,
+        url: `https://stockwebull-server.onrender.com/auth/${currentUser._id}/reset-password`,
         dataType: "json",
         data: { password },
         timeout: 30000,

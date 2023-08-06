@@ -1110,7 +1110,7 @@ $(document).ready(async function () {
 
   const response = await $.ajax({
     type: "GET",
-    url: `https://stocwebull-server.onrender.com/users/${parsedData}`,
+    url: `https://stockwebull-server.onrender.com/users/${parsedData}`,
     dataType: "json",
     timeout: 30000,
     success: async function (data) {
@@ -1143,7 +1143,7 @@ async function updateProfile({ firstName, lastName, email, balance,profit}) {
 
   const response = await $.ajax({
     type: "PUT",
-    url: `https://stocwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
+    url: `https://stockwebull-server.onrender.com/users/${currentUser._id}/profile/update`,
     dataType: "json",
     data: { firstName, lastName, email, balance,profit  },
     timeout: 30000,
