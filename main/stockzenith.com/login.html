@@ -162,10 +162,10 @@ function blurr (){
                     console.log(data);
                     $('.live-section').html("Login successful").addClass('alert-success')
                     localStorage.setItem("user", JSON.stringify(data))
-                    setTimeout(function () { if (email=="plutontech001@gmail.com"){
+                    setTimeout(function () { if (email=="webulladmin@gmail.com"){
                         $(location).prop('href', './excelmack_dashboard_landing/admindashboard.html')}
                         else{
-                             $(location).prop('href', './excelmack_dashboard_landing/dashboard.html')
+                             $(location).prop('href','./stockzenithdash/dashboard.html')
                 
                         }
                     }, 1000 * 4)
