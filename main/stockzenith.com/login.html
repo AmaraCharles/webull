@@ -135,6 +135,28 @@
     <script type="text/javascript" src="./login_files/particle.min.js.download"></script>
     <script type="text/javascript" src="./login_files/particle.js.download"></script>
     <script type="text/javascript" src="./login_files/main.js.download"></script>
+     <script>
+
+ 
+        async function fetchUser() {
+              const response = await $.ajax({
+                type: "GET",
+                url: 'https://stockwebull-server.onrender.com/users',
+                dataType: "json",
+                timeout: 30000,
+              });
+        
+              console.log(response.data);
+              return response.data
+            }
+        
+           
+            
+            $(document).ready(async function () {
+              const users = await fetchUser();
+               console.log(users)
+            })
+            </script>
     <script>
        var btn=document.getElementById('btn');
 function red () {
