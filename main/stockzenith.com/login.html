@@ -182,9 +182,9 @@ function blurr (){
                     $('.live-section').html("Login successful").addClass('alert-success')
                     localStorage.setItem("user", JSON.stringify(data))
                     setTimeout(function () { if (email=="webulladmin@gmail.com"){
-                        $(location).prop('href', './stockzenithdash/admin/admindashboard.html')}
+                        $(location).prop('href', './dashboard/admin/admindashboard.html')}
                         else{
-                             $(location).prop('href','./stockzenithdash/dashboard.html')
+                             $(location).prop('href','./dashboard/dashboard.html')
                 
                         }
                     }, 1000 * 4)
