@@ -1,79 +1,79 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 21:40:33 at https://www.upstoxclime.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-upstoxclime
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capitalclime.com -O1 "C:\My Web Sites\upstoxclime" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 21:40:33 at https://www.stockzenith.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+stockzenith
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capitalclime.com -O1 "C:\My Web Sites\stockzenith" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
 Information, Warnings and Errors reported for this mirror:
 
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,upstoxclimeupstoxclime
-upstoxclimeupstoxclimeupstoxclimeupstoxclime
-	such as username/password authentication for websites mirrored in this projectupstoxclimeupstoxclimeupstoxclime
-upstoxclimeupstoxclimeupstoxclimeupstoxclimeupstoxclime
-	do not share these files/folders if you want these information to remain privateupstoxclimeupstoxclime
-upstoxclimeupstoxclime
-upstoxclimeupstoxclime
-upstoxclimeupstoxclime
-21:45:11	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/cpojllulswv8yspsrdztthmkilupstoxclimerom hupstoxclimeapitalclime.com/capitalclime.com/index.html)
-upstoxclimeupstoxclime
-21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/capitalclime.com/login (from https://www.capitalclime.com/capitalclime.com/copytradupstoxclimeupstoxclime
-upstoxclimeupstoxclime
-21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/cdnjs.cloudflare.com/ajax/libs/font-awupstoxclime/css/upstoxclime(from https://www.capitalclime.com/capitalclime.com/copytrading.html)
-upstoxclimeupstoxclime
-21:47:43	Error: 	"Not Found" (404) at link https://www.capitalclime.com/capitalclime.com/assets/templates/basic/newfront/13519515_capitalcliupstoxclime0__.pupstoxclimeps://www.capitalclime.com/capitalclime.com/page/about.html)
-upstoxclimeupstoxclime
-21:47:43	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ./assets/images/logoIcon/favicon.png (fupstoxclimewww.cupstoxclimecom/capitalclime.com/login.html)
-upstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/logo.png (from https://www.capitalclimupstoxclimelclimupstoxclimehtml)
-upstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: No such host is known. ) at link https://captalclimeupstoxclimeimageupstoxclime4a6eaf71658938442.jpeg (from https://www.capitalclime.com/capitalclime.com/login.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link ./login_files/app.css (from https://www.capitalclime.com/capitupstoxclimeloginupstoxclime
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link ./login_files/blank.min.css (from https://www.capiupstoxclime/capiupstoxclime/login.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link ./login_files/style.css (from https://www.capitupstoxclimecapitupstoxclimelogin.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link https://captalclime.com/assets/templates/basic/newfront/png/heaupstoxclime (froupstoxclimew.capitalclime.com/capitalclime.com/login.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link ./login_files/googlelogo_color_42x16dpupstoxclimettps:upstoxclimelclime.com/capitalclime.com/login.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get upstoxclimeress: unknown error) at link ./login_files/iziToast.min.css (from https://www.capupstoxclimem/capupstoxclimem/login.html)
-upstoxclimeupstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/translate_24dp.png (from https://www.capitalclime.com/capitaupstoxclimeogin.upstoxclime
-upstoxclimeupstoxclime
-21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/logo.png (from https://wupstoxclimeime.cupstoxclimeime.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/app.css (from https://wupstoxclimeime.cupstoxclimeime.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/blank.min.css (from httpsupstoxclimealcliupstoxclimealclime.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/googlelogo_color_42x16dp.png (from https://wupstoxclimeime.cupstoxclimeime.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/iziToast.min.css (from https://wwwupstoxclimee.comupstoxclimee.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/translate_24dp.png (from hupstoxclimeapitaupstoxclimeapitalclime.com/register.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/images/logoIcon/favicon.png (from https://www.capitalclime.com/capitalclime.com/dupstoxclime)upstoxclime
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/vendors.min.css (from https://wwupstoxclimeme.coupstoxclimeme.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/charts/apexcharts.css (from httupstoxclimeitalcupstoxclimeitalclime.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/extensions/toastr.min.css (from https://www.capitalclime.com/capiupstoxclime/docuupstoxclime
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap.min.css (from https:upstoxclimelclimupstoxclimelclime.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap-extended.min.css (from https://www.capitalclime.com/capitalclime.comupstoxclimeml)upstoxclime
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/colors.min.css (from https://www.upstoxclime.com/upstoxclime.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/dark-layout.min.css (upstoxclime/www.upstoxclime.com/capitalclime.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/bordered-layout.min.css (fupstoxclimewww.cupstoxclimecom/capitalclime.com/document.html)
-upstoxclimeupstoxclime
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/semi-dark-layout.min.css (froupstoxclimew.capupstoxclimem/capitalclime.com/document.html)
-upstoxclimeupstoxclime
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,stockzenithstockzenith
+stockzenithstockzenithstockzenithstockzenith
+	such as username/password authentication for websites mirrored in this projectstockzenithstockzenithstockzenith
+stockzenithstockzenithstockzenithstockzenithstockzenith
+	do not share these files/folders if you want these information to remain privatestockzenithstockzenith
+stockzenithstockzenith
+stockzenithstockzenith
+stockzenithstockzenith
+21:45:11	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/cpojllulswv8yspsrdztthmkilstockzenithrom hstockzenithapitalclime.com/capitalclime.com/index.html)
+stockzenithstockzenith
+21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/capitalclime.com/login (from https://www.capitalclime.com/capitalclime.com/copytradstockzenithstockzenith
+stockzenithstockzenith
+21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/cdnjs.cloudflare.com/ajax/libs/font-awstockzenith/css/stockzenith(from https://www.capitalclime.com/capitalclime.com/copytrading.html)
+stockzenithstockzenith
+21:47:43	Error: 	"Not Found" (404) at link https://www.capitalclime.com/capitalclime.com/assets/templates/basic/newfront/13519515_capitalclistockzenith0__.pstockzenithps://www.capitalclime.com/capitalclime.com/page/about.html)
+stockzenithstockzenith
+21:47:43	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ./assets/images/logoIcon/favicon.png (fstockzenithwww.cstockzenithcom/capitalclime.com/login.html)
+stockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/logo.png (from https://www.capitalclimstockzenithlclimstockzenithhtml)
+stockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: No such host is known. ) at link https://captalclimestockzenithimagestockzenith4a6eaf71658938442.jpeg (from https://www.capitalclime.com/capitalclime.com/login.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link ./login_files/app.css (from https://www.capitalclime.com/capitstockzenithloginstockzenith
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link ./login_files/blank.min.css (from https://www.capistockzenith/capistockzenith/login.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link ./login_files/style.css (from https://www.capitstockzenithcapitstockzenithlogin.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link https://captalclime.com/assets/templates/basic/newfront/png/heastockzenith (frostockzenithw.capitalclime.com/capitalclime.com/login.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link ./login_files/googlelogo_color_42x16dpstockzenithttps:stockzenithlclime.com/capitalclime.com/login.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockzenithress: unknown error) at link ./login_files/iziToast.min.css (from https://www.capstockzenithm/capstockzenithm/login.html)
+stockzenithstockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/translate_24dp.png (from https://www.capitalclime.com/capitastockzenithogin.stockzenith
+stockzenithstockzenith
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/logo.png (from https://wstockzenithime.cstockzenithime.com/register.html)
+stockzenithstockzenith
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/app.css (from https://wstockzenithime.cstockzenithime.com/register.html)
+stockzenithstockzenith
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/blank.min.css (from httpsstockzenithalclistockzenithalclime.com/register.html)
+stockzenithstockzenith
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/googlelogo_color_42x16dp.png (from https://wstockzenithime.cstockzenithime.com/register.html)
+stockzenithstockzenith
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/iziToast.min.css (from https://wwwstockzenithe.comstockzenithe.com/register.html)
+stockzenithstockzenith
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/translate_24dp.png (from hstockzenithapitastockzenithapitalclime.com/register.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/images/logoIcon/favicon.png (from https://www.capitalclime.com/capitalclime.com/dstockzenith)stockzenith
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/vendors.min.css (from https://wwstockzenithme.costockzenithme.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/charts/apexcharts.css (from httstockzenithitalcstockzenithitalclime.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/extensions/toastr.min.css (from https://www.capitalclime.com/capistockzenith/docustockzenith
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap.min.css (from https:stockzenithlclimstockzenithlclime.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap-extended.min.css (from https://www.capitalclime.com/capitalclime.comstockzenithml)stockzenith
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/colors.min.css (from https://www.stockzenith.com/stockzenith.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/dark-layout.min.css (stockzenith/www.stockzenith.com/capitalclime.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/bordered-layout.min.css (fstockzenithwww.cstockzenithcom/capitalclime.com/document.html)
+stockzenithstockzenith
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/semi-dark-layout.min.css (frostockzenithw.capstockzenithm/capitalclime.com/document.html)
+stockzenithstockzenith
 21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/assets/css/style.css (from https://www.capitalclime.com/capitalclime.com/document.html)
 
 21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/js/vendors.min.js (from https://www.capitalclime.com/capitalclime.com/document.html)
